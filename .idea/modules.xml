@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/import_csv.iml" filepath="$PROJECT_DIR$/.idea/import_csv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../publizee/.idea/publizee.iml" filepath="$PROJECT_DIR$/../publizee/.idea/publizee.iml" />
+    </modules>
+  </component>
+</project>
